@@ -1,6 +1,6 @@
 ## Hi there! I'm Marcos Resende Oliveira👋
 
-- 🔭 I'm currently working on back-end web development
+- 🔭 I'm currently working on back-end web development.
 - 🌱 I’m currently learning and improving myself in web development back-end, front-end.
 - 😄 Pronouns: he/his
 
